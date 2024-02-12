@@ -11,15 +11,15 @@ The following lists (except the last one) are loosely ordered by importance.
 
 - [x] Dark mode.
 - [x] User created communities.
-- [ ] Progressive Web App (PWA).
+- [X] Progressive Web App (PWA).
 - [ ] UI preferences.
 	- [ ] Compact mode.
 	- [ ] Enable or disable infinite scroll. 
-	- [ ] Choose which notifications to get.
-	- [ ] Set the Home page to one of Subscriptions page or All Posts page.
+	- [X] Choose which notifications to get.
+	- [X] Set the Home page to one of Subscriptions page or All Posts page.
 	- [ ] Select font-size.
 	- [ ] Enable or disable thumbnails (including community and user profile icons).
-    - [ ] Change default feed sorting.
+    - [X] Change default feed sorting.
 - Filtering:
 	- [ ] Filter out posts from certain communities on Home (which is our /r/all).
 	- [ ] Filter posts by topic (sports, music, movies, news, etc).
@@ -32,7 +32,7 @@ The following lists (except the last one) are loosely ordered by importance.
       communities. 
 	- [ ] Temporary bans.
 - [ ] User and community mentions (`@user` and `+community`).
-- [ ] Image posts.
+- [X] Image posts.
 - [ ] Poll posts.
 - [ ] Video embeds (Youtube, Vimeo, etc).
 - [ ] Server side rendering (for SEO).
@@ -47,7 +47,7 @@ The following lists (except the last one) are loosely ordered by importance.
 ### Minor improvements (that collectively would add up to a lot)
 
 - [ ] Comment permalink.
-- [ ] User profile pictures (with the option to disable them).
+- [X] User profile pictures (with the option to disable them).
 - [ ] Publicly show last seen on profile (do it like Goodreads, only showing the 
   last month the user was active in).
 - [ ] Log when a user joins/leaves a community (for keeping track of how long 
